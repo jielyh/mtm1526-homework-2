@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	height: 600px;
+	width:400px;
+	margin:100px auto;
+	border:thick #003;
+	
+	background-color:#F8F8F8;
+}
+
+
+li {
+  cursor: pointer;
+}
+
+.done {
+  color: #999;
+  text-decoration: line-through;
+}
+
+h1{
+	color:#F36;	
+}
+
+#list{
+	color:#66C;
+}
